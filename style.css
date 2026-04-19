@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 10px;
+justify-content: center;
+}
+body {
+   min-width: 100vh;
+    max-width: 1024;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+HEADER {
+    display: flex;
+   flex-wrap: wrap;
+    padding: 5px 10px 5px 10px;
+background-color: rgb(0, 128, 51);
+    border-radius: 12px;
+     justify-content: space-between;
+border: 50px black;
+
+}
+header button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(1, 11, 0);
+    border: 0px;
+    border-radius: 10px;
+    margin-left: 550px;
+}
+.logo {
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+} 
+#mm1 {
+    display: flex;
+
+flex-direction: column;
+justify-content: left;
+
+}
+
+#tdl button {
+    background-color: rgb(0, 145, 17);
+    color: rgb(0, 0, 0);
+    border: 0px;
+border-radius: 10px;
+}
+#td {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    }
+#bd {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+
+#md2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.icon {
+    width: 30px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.txt2{
+    justify-content: center;
+}
+
+.maindiv1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text1{
+width: 600px;
+}
+.img1{
+width: 45px;
+}
+.btn1{
+    background-color:red;
+    border-radius: 12px;
+}
+#u {
+    display: flex;
+    gap: 30px;
+    justify-content: start;
+}
+#maindiv{
+    display: flex;
+}
+#maindiv2{
+    display: flex;
+    gap: 200px;
+    
+}
+#maindiv3{
+    display: flex;
+}
+#maindiv4{
+    display: flex;
+}
